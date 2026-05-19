@@ -1,4 +1,6 @@
 package interfaces;
 
-public class CoGiamGia {
+
+public interface CoGiamGia {
+    double tinhGiaSauGiam(double giaGoc);
 }
